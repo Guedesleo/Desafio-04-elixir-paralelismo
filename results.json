@@ -1,0 +1,37 @@
+{
+  "excluded": [],
+  "failed": [
+    {
+      "describe": "call/1",
+      "file": "c:/_projetos/Ignite/Desafio_elixir/Desafio-04-elixir-paralelismo/test/gen_report_test.exs",
+      "line": 194,
+      "module": "Elixir.GenReportTest",
+      "test": "test call/1 When passing array of files return a report"
+    }
+  ],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "call/1",
+      "file": "c:/_projetos/Ignite/Desafio_elixir/Desafio-04-elixir-paralelismo/test/gen_report_test.exs",
+      "line": 7,
+      "module": "Elixir.GenReportTest",
+      "test": "test call/1 When passing file name return a report"
+    },
+    {
+      "describe": "call/1",
+      "file": "c:/_projetos/Ignite/Desafio_elixir/Desafio-04-elixir-paralelismo/test/gen_report_test.exs",
+      "line": 188,
+      "module": "Elixir.GenReportTest",
+      "test": "test call/1 When no filename was given, returns an error"
+    },
+    {
+      "describe": "parse_file/1",
+      "file": "c:/_projetos/Ignite/Desafio_elixir/Desafio-04-elixir-paralelismo/test/gen_report_test.exs",
+      "line": 374,
+      "module": "Elixir.GenReportTest",
+      "test": "test parse_file/1 Should return a map"
+    }
+  ],
+  "skiped": []
+}
